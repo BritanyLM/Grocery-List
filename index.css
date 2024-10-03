@@ -1,0 +1,21 @@
+header {background-color: rgb(253, 253, 253);
+text-align: center;
+border-radius: 100px;
+border-block: 5px solid red;
+}
+.Pantry-pic {
+    display:flex;
+    justify-content: center;
+}
+.Freezer-pic {
+    display: flex;
+    justify-content: center;
+}
+article {background-color: rgb(250, 54, 39);
+color: white;
+border-block: 3px dotted blue;
+font-family: "Lucida Sans";
+}
+img {
+    border: 2px solid blue;
+}
